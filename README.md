@@ -3,12 +3,6 @@
 **CENG342 — Parallel Programming Project**
 **Group 11**
 
-| Name |
-|------|
-| Süleyman Fatih Sert |
-| Muhammet Talha Şatır |
-| Seyfullah Gülyazı |
-
 ---
 
 ## Overview
